@@ -19,7 +19,7 @@ int main(){
    cout << "==========================================" << endl;
    cout << "Status " << endl;
    if(condition1 && condition2){
-      cout << "Pass Interviwe" << endl;
+      cout << "Pass Interview" << endl;
    }
    else{
       cout << "Not pass Interview" << endl;
